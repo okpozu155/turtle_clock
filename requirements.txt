@@ -1,1 +1,5 @@
 turtle 
+All requirements are python's builtin libraries.
+turtle
+time and 
+math

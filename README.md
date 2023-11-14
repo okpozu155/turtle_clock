@@ -1,0 +1,1 @@
+This is a simple wall clock built using python builtin library turtle.
